@@ -101,7 +101,7 @@ Và câu hỏi thứ hai: các bước có cố định không?
 | Tình huống | Dùng | Lý do |
 |---|---|---|
 | Việc lặp lại, bước cố định (báo cáo sáng thứ Hai) | **Quy trình đặt sẵn từng bước** | Ổn định, rẻ, dễ kiểm |
-| Mỗi lần một kiểu, cần tự chọn công cụ (khách hỏi giá lúc, hỏi đơn lúc) | **Ô Agent** | Linh hoạt |
+| Mỗi lần một kiểu, cần tự chọn công cụ (khách lúc hỏi giá, lúc hỏi đơn) | **Ô Agent** | Linh hoạt |
 
 > Đừng dùng Agent chỉ vì nghe hiện đại. Việc nào đặt sẵn từng bước được thì đặt sẵn.
 
